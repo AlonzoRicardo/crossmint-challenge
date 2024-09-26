@@ -1,0 +1,25 @@
+{
+  "name": "crossmint-challenge",
+  "version": "1.0.0",
+  "description": "This challenge was made by ourselves! We want you to take a glimpse at our style and philosophy, and that cannot be achieved by using generic tests. We hope you enjoy it as many other candidates have!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/bin/megaverse.js",
+    "build": "tsc",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/axios-mock-adapter": "^1.10.0",
+    "@types/jest": "^29.5.13",
+    "@types/node": "^22.7.3",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.6.2"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "axios-mock-adapter": "^2.0.0"
+  }
+}
