@@ -26,7 +26,7 @@ I would like to express my sincere gratitude to Crossmint for considering my can
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/crossmint-challenge.git
+   git clone https://github.com/AlonzoRicardo/crossmint-challenge.git
    cd crossmint-challenge
    ```
 
